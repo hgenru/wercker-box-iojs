@@ -1,7 +1,7 @@
 name: iojs
-version: 1.0.0
+version: 1.1.0
 type: main
-platform: ubuntu@12.04
+platform: ubuntu@14.04
 description: installs io.js using nvm
 keywords:
   - iojs

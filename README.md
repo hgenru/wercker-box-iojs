@@ -51,6 +51,10 @@ build:
 
 ## Changelog
 
+### 1.1.0
+
+- Upgrade to Ubuntu 14.04
+
 ### 1.0.0
 
 - Initial release
