@@ -6,10 +6,10 @@ This [wercker](http://wercker.com) box installs [io.js](https://iojs.org) using 
 
 ### Installed io.js versions
 
-* 1.3.x
-* 1.4.x
 * 1.5.x
 * 1.6.x
+* 1.7.x
+* 1.8.x
 
 ## Basic Usage
 
@@ -50,6 +50,11 @@ build:
 ```
 
 ## Changelog
+
+### 1.2.0
+
+- Add io.js 1.7.x and 1.8.x
+- Deprecate io.js 1.3.x and 1.4.x
 
 ### 1.1.0
 
