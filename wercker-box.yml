@@ -8,7 +8,7 @@ keywords:
   - nvm
 script: |
   sudo apt-get update -y
-  sudo apt-get install build-essential curl libssl-dev -y
+  sudo apt-get install git build-essential curl libssl-dev -y
 
   curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
   source $HOME/.nvm/nvm.sh
